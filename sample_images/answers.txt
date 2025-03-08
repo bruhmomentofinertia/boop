@@ -1,0 +1,5 @@
+0001-000,178 Bombay Phenotype :-
+0001-001,194 That type of Phenotypic character of Blood group
+0001-002,193 in which can individual is Phenotypically " O "
+0001-003,194 and genotyphically is type A or type B Blood
+0001-004,187 group . # called Bombay Phenotype . #
